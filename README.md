@@ -1,5 +1,10 @@
 ### Hi there 👋
-- Pronouns: she/they
+- [😄 My Label, Pronouns and etc](https://pronouns.page/@OmegaRogue)
+- 📫 How to reach me: 
+  - Discord @ΩмεցαЯοցυε#9344 
+  - Matrix @omegarogue:omegavoid.codes 
+  - Telegram [@OmegaRogue](https://t.me/OmegaRogue)
+  - Email [omegarogue@omegavoid.codes](mailto:omegarogue@omegavoid.codes)
 <!--
 **OmegaRogue/OmegaRogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
