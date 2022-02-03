@@ -2,10 +2,11 @@
 - [😄 My Label, Pronouns and etc](https://pronouns.page/@OmegaRogue)
 - 📫 How to reach me: 
   - Discord @ΩмεցαЯοցυε#9344 
-  - ~~Matrix @omegarogue:omegavoid.codes~~
+  - ~~Matrix @omegarogue:omegavoid.codes~~ currently offline
   - Telegram [@OmegaRogue](https://t.me/OmegaRogue)
   - Email [omegarogue@omegavoid.codes](mailto:omegarogue@omegavoid.codes)
-  - 
+
+[![](https://inara.cz/data/sig/153/153118.jpg)](https://inara.cz/cmdr/153118)
 ```
 —–BEGIN GEEK CODE BLOCK—–
 Version: 4.0
