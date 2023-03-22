@@ -2,7 +2,8 @@
 - [😄 My Label, Pronouns and etc](https://pronouns.page/@OmegaRogue)
 - 📫 How to reach me: 
   - Discord @ΩмεցαЯοցυε#9344 
-  - ~~Matrix @omegarogue:omegavoid.codes~~ currently offline
+  - Matrix ~~@omegarogue:omegavoid.codes~~ currently offline
+@omegarogue:matrix.org
   - Telegram [@OmegaRogue](https://t.me/OmegaRogue)
   - Email [omegarogue@omegavoid.codes](mailto:omegarogue@omegavoid.codes)
 
